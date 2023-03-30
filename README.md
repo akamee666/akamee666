@@ -6,7 +6,7 @@
   Atualmente estudo e trabalho em meus projetos com Java e também faço uso do banco de dados MySql. Porém ja estudei e utilizei as diversas linguagens citadas abaixo.
   
  
-Não sou uma pessoa tão comunicativa,porém trabalho bem em equipe e tenho certa facilidade em aprender coisas novas. Neste momento procuro uma oportunidade para entrar neste mercado tecnológico e mostrar o meu potencial, para continuar evoluindo em minha aprendizagem.</p>
+Não sou uma pessoa tão comunicativa,porém trabalho bem em equipe e tenho certa facilidade em aprender coisas novas. Neste momento procuro uma oportunidade para entrar neste mercado tecnológico e mostrar todo o meu potencial, para continuar evoluindo em minha aprendizagem.</p>
     
 ### Linguagens e Ferramentas    
 <div style="display: inline_block"><br>
