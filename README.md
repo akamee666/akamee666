@@ -26,8 +26,8 @@ Não sou uma pessoa tão comunicativa,porém trabalho bem em equipe e tenho cert
 ### STATUS.
 <div>
   <a href="https://www.linkedin.com/in/david1moraes/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeskkj&layout=compact&langs_count=16&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moraeskkj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeskkj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeskkj&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 <div/>  
 
 
