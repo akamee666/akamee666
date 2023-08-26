@@ -12,6 +12,6 @@
 - [ ] calc I
 - [ ] operating systems
 - [ ] reverse engineering
-- [ ] web exploiting 
+- [ ] web exploitation
 
 ### 📫 Projects 
