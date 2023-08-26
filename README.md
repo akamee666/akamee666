@@ -9,9 +9,9 @@
 
 ### 🧠 I'm studying
 
-- [] calc I
-- [] operating systems
-- [] reverse engineering
-- [] web exploiting 
+- [ ] calc I
+- [ ] operating systems
+- [ ] reverse engineering
+- [ ] web exploiting 
 
 ### 📫 Projects 
