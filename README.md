@@ -1,17 +1,17 @@
-### Hi, I'm math & pentesting student 👋
+### Hi, I'm programming & pentesting student 👋
 
 -----------------
 
 ### 🔭 I’m currently working on
-- [ ] pentesting skills
-- [ ] math skills 
+- [ ] pentesting 
 - [ ] reverse engineering
+- [ ] programming
 
 ### 🧠 I'm studying
 
-- [ ] calc I
-- [ ] operating systems
+- [ ] pentesting skills
+- [ ] math skills
+- [ ] programming skills(C and C++)
 - [ ] reverse engineering
-- [ ] web exploitation
 
 ### 📫 Projects 
