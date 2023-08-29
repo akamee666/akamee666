@@ -14,4 +14,9 @@
 - [ ] programming skills(C and C++)
 - [ ] reverse engineering
 
-### 📫 Projects 
+### 📫 Social Media
+- mooraesz123@gmail.com
+- [instagram](https://www.instagram.com/moraesskkj_/)
+- [twitter](https://twitter.com/itsnotakame)
+
+If you have an offer, opportunity, or introduction that makes my life more interesting, text me at the provided e-mail,twitter or instagram address above :D.
