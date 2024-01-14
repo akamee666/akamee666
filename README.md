@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
    }
 
 }
-https://media3.giphy.com/media/xT9IgkDZjbfe06GN8Y/giphy.gif?cid=ecf05e47vsez9lwz4qqq53vbngnh7dxq0lj04a42803tuvk7&ep=v1_gifs_related&rid=giphy.gif&ct=g
+
 ```
 # Tecnologies
   <img align="right" src="https://media3.giphy.com/media/xT9IgkDZjbfe06GN8Y/giphy.gif?cid=ecf05e47vsez9lwz4qqq53vbngnh7dxq0lj04a42803tuvk7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
