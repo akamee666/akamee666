@@ -8,7 +8,7 @@
 int main(int argc, char *argv[]) {
 
     char aboutme[128] = "Cyber Security and Computer Science";
-    char *langs[5] = {"C", "JavaScript", "Java", "Assembly", "Shell"};
+    char *langs[5] = {"C", "Rust", "Java", "Assembly", "Shell"};
     char *areas[4] = {"Pentest", "Red Team", "Theorical Computer Science", "Some Low Level Shit"};
     char pronuns[4] = "he/him";
 
