@@ -23,17 +23,14 @@ int main(int argc, char *argv[]) {
   <img align="right" src="https://media3.giphy.com/media/xT9IgkDZjbfe06GN8Y/giphy.gif?cid=ecf05e47vsez9lwz4qqq53vbngnh7dxq0lj04a42803tuvk7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
   <div align="left">
     <div>
-      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
+      <img alt="Rust" src="https://img.shields.io/badge/rust-100000?style=for-the-badge&logo=rust">
       <img alt="C" src="https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c">
       <img alt="Assembly" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black">
-      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
       <img alt="Shell" src="https://img.shields.io/badge/shell-100000?style=for-the-badge&logo=shellscript">
       <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
-      <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
-      <img alt="" src="https://img.shields.io/badge/notion-100000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
     <hr height="1">
   </div>
