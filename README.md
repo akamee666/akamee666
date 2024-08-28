@@ -1,5 +1,5 @@
 
-- :zzz: Current studying Hacking,Reverse Engineering and a sort of things that make me curious.
+- :zzz: Studying about programming ;).
 - :computer: Computer Science Student.
 
 ```C
@@ -7,17 +7,16 @@
 
 int main(int argc, char *argv[]) {
 
-    char aboutme[128] = "Cyber Security and Computer Science";
-    char *langs[5] = {"C", "Rust", "Java", "Assembly", "Shell"};
-    char *areas[4] = {"Pentest", "Red Team", "Theorical Computer Science", "Some Low Level Shit"};
-    char pronuns[4] = "he/him";
+    char boutme[128] = "Cyber Security and Computer Science";
+    char *langs[4] = {"C", "Rust", "Java", "Assembly", "Shell"};
+    char *areas[4] = {"Pentest", "Programming", "Theorical Computer Science", "Some Low Level Shit"};
+    char pronuns[8] = "he/him";
 
     return 0;
 
    }
 
 }
-
 ```
 # Tecnologies
   <img align="right" src="https://media3.giphy.com/media/xT9IgkDZjbfe06GN8Y/giphy.gif?cid=ecf05e47vsez9lwz4qqq53vbngnh7dxq0lj04a42803tuvk7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
