@@ -1,5 +1,5 @@
 
-- :zzz: Studying about programming ;).
+- :zzz: Studying about programming and malwares ;).
 - :computer: Computer Science Student.
 
 ```C
@@ -8,8 +8,8 @@
 int main(int argc, char *argv[]) {
 
     char boutme[128] = "Cyber Security and Computer Science";
-    char *langs[4] = {"C", "Rust", "Java", "Assembly", "Shell"};
-    char *areas[4] = {"Pentest", "Programming", "Theorical Computer Science", "Some Low Level Shit"};
+    char *langs[4] = {"C", "Rust", "Java", "Assembly", "Python"};
+    char *areas[5] = {"Pentest", "Theorical Computer Science", "Systems Programming", "Reverse engineering", "Malware Analysis"};
     char pronuns[8] = "he/him";
 
     return 0;
@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
   </div>
 
 ### 📫 Social Media
-- [email](mooraesz123@gmail.com)
+- [email](moraes@akmee.xyz)
 - [instagram](https://www.instagram.com/moraesskkj_/)
 - [twitter](https://twitter.com/itsnotakame)
 
