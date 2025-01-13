@@ -2,20 +2,21 @@
 - :zzz: Studying about programming and malwares ;).
 - :computer: Computer Science Student.
 
-```C
-#include <stdio.h>
+```Rust
+fn main() {
+    println!("Hello, Github!");
+    let boutme: String = String::from("Cyber Security and Computer Science :D");
+    let langs: Vec<Langs> = vec!["C", "Rust", "Java", "Assembly", "Python"];
+    let areas: Vec<Areas> = vec![
+        "Malware Analysis",
+        "Reverse engineering",
+        "Sytems Programming",
+        "Pentest",
+        "Theorical Computer Science",
+    ];
+    let pronous: String = String::from("he/him");
 
-int main(int argc, char *argv[]) {
-
-    char boutme[128] = "Cyber Security and Computer Science";
-    char *langs[4] = {"C", "Rust", "Java", "Assembly", "Python"};
-    char *areas[5] = {"Pentest", "Theorical Computer Science", "Systems Programming", "Reverse engineering", "Malware Analysis"};
-    char pronuns[8] = "he/him";
-
-    return 0;
-
-   }
-
+    println!(":D");
 }
 ```
 # Tecnologies
