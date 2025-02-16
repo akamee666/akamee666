@@ -10,7 +10,7 @@ fn main() {
     let areas: Vec<Areas> = vec![
         "Malware Analysis",
         "Reverse engineering",
-        "Sytems Programming",
+        "Systems Programming",
         "Pentest",
         "Theorical Computer Science",
     ];
