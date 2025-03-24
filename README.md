@@ -36,6 +36,6 @@ fn main() {
 ### 📫 Social Media
 - [email](moraes@akmee.xyz)
 - [instagram](https://www.instagram.com/moraesskkj_/)
-- [twitter](https://twitter.com/itsnotakame)
+- [twitter](https://twitter.com/1tsn0tak4m3)
 
 If you have an offer, opportunity, or introduction that makes my life more interesting, text me at the provided e-mail,twitter or instagram address above :D.
