@@ -8,14 +8,13 @@ fn main() {
     let boutme: String = String::from("Cyber Security and Computer Science :D");
     let langs: Vec<Langs> = vec!["C", "Rust", "Java", "Assembly", "Python"];
     let areas: Vec<Areas> = vec![
-        "Malware Analysis",
+        "Developer",
         "Reverse engineering",
         "Systems Programming",
         "Pentest",
         "Theorical Computer Science",
     ];
     let pronous: String = String::from("he/him");
-
     println!(":D");
 }
 ```
